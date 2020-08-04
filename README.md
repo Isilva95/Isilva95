@@ -7,4 +7,4 @@ No meu tempo livre, gosto de jogar (e assistir) futebol (⚽️), assistir filme
 
 Gostaria de me encontrar?
 
-[! [Selo do Linkedin] (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)] ( https://www.linkedin.com/in/isac-santos-da-silva-b67b8515a/)
+[! [Selo do Linkedin] (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isac-santos-da-silva-b67b8515a/)] ( https://www.linkedin.com/in/isac-santos-da-silva-b67b8515a/)
