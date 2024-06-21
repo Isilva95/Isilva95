@@ -13,7 +13,6 @@ Formado em Análise e Desenvolvimento de Sistemas 📚
 
 ## Sobre mim
 ✔ 🏙 Sou da cidade de Araçariguama - SP, Brasil 🌎<br />
-✔ 🎓 Estudando e me dedicando para ser um desenvolvedor Front-End 🌱<br />
 ✔ 💬 Perguntas são muito bem vindas! Responde-las será um prazer 📃<br />
 ✔ 🎬 Apreciador de filmes, esportes(futebol principalmente) e cultura nerd ⛩<br />
 ✔ 🎮 Adoro jogar video games <br />
