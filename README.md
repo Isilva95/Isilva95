@@ -7,9 +7,9 @@
   
 </p>
 
-Desenvolvedor Front-End | Back-End 💻🖊
+Desenvolvedor Front-End 💻🖊
 <br />
-Estudante no curso de Análise e Desenvolvimento de Sistemas 📚
+Formado em Análise e Desenvolvimento de Sistemas 📚
 
 ## Sobre mim
 ✔ 🏙 Sou da cidade de Araçariguama - SP, Brasil 🌎<br />
