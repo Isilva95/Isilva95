@@ -3,7 +3,7 @@
 # Olá! Meu nome é Isac Santos, seja bem vindo ao meu perfil! 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=Isilva95.Isilva95" alt="Visitas">
 
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-godinho-562246137)](https://www.linkedin.com/in/isac-santos-b67b8515a/)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isac-santos-silva/)](https://www.linkedin.com/in/isac-santos-silva/)
   
 </p>
 
