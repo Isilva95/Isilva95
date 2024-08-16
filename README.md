@@ -1,14 +1,14 @@
+
 # Olá! Meu nome é Isac Santos, seja bem vindo ao meu perfil! 
 
-<img align="right" width="480" height="270" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 Desenvolvedor Front-End 💻🖊
 <br />
 Formado em Análise e Desenvolvimento de Sistemas 📚
 
-<br>
-<br>
-<br>
+<p>
+  <img align="center" width="480" height="270" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">  
+</p>
 
 ## Sobre mim
 ✔ 🏙 Sou da cidade de Araçariguama - SP, Brasil 🌎<br />
