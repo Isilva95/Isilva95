@@ -1,10 +1,8 @@
 <img align="right" width="480" height="270" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 # Olá! Meu nome é Isac Santos, seja bem vindo ao meu perfil! 
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Isilva95.Isilva95" alt="Visitas">
-
+<p>
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isac-santos-silva/)](https://www.linkedin.com/in/isac-santos-silva/)
-  
 </p>
 
 Desenvolvedor Front-End 💻🖊
