@@ -1,13 +1,11 @@
 <img align="right" width="480" height="270" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-# Olá! Meu nome é Isac Santos, seja bem vindo ao meu perfil! 
+<br>
+<br>
+<br>
+<br>
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+# Olá! Meu nome é Isac Santos, seja bem vindo ao meu perfil! 
 
 Desenvolvedor Front-End 💻🖊
 <br />
